@@ -32,6 +32,10 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     scale = SCALE;
+
+    
+    
+    
     
     stringArray = [NSArray array];
     imagesArray = [NSArray array];
